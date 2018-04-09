@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="homework-singleton:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/homework_singleton_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="homework-singleton/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="homework-singleton" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
